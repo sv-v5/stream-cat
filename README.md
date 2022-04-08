@@ -7,7 +7,8 @@ Enter cat lengh and proceed
 
 
 ## Web App
-[https://share.streamlit.io/sv-v5/stream-cat/main/streamlit-app.py](https://share.streamlit.io/sv-v5/stream-cat/main/streamlit-app.py)
+[https://share.streamlit.io/sv-v5/stream-cat/main/streamlit-app.py](https://share.streamlit.io/sv-v5/stream-cat/main/streamlit-app.py)  
+[![screenshot](./img/screenshot.jpg)](https://share.streamlit.io/sv-v5/stream-cat/main/streamlit-app.py)  
 
 
 ## Credits
